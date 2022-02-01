@@ -8,14 +8,14 @@ A fintech startup company is disrupting the finance industry with its own cross-
 To automate the creation of joint savings accounts, create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 Tasks Completed
 
-    Build Smart Contract in Solidity for the Joint Savings Account.
+Build Smart Contract in Solidity for the Joint Savings Account.
 
-    Compile and Deploy the Contract in the JavaScript VM.
+Compile and Deploy the Contract in the JavaScript VM.
 
-    Interact with the Smart Contract to confirm accounts successfully transact.
+Interact with the Smart Contract to confirm accounts successfully transact.
 
 Deliverables
 
-    A Smart Contract for the Joint Savings accounts.
+A Smart Contract for the Joint Savings accounts.
 
-    Separate folder to include images that confirm the deposit and withdrawal transactions.
+Separate folder to include images that confirm the deposit and withdrawal transactions.
